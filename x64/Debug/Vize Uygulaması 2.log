@@ -1,0 +1,6 @@
+﻿  Vize Uygulaması 2.cpp
+C:\Users\PC\Desktop\C\Vize Uygulaması 2\Vize Uygulaması 2.cpp(23,17): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\PC\Desktop\C\Vize Uygulaması 2\Vize Uygulaması 2.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\C\Vize Uygulaması 2\Vize Uygulaması 2.cpp(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\C\Vize Uygulaması 2\Vize Uygulaması 2.cpp(37,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Vize Uygulaması 2.vcxproj -> C:\Users\PC\Desktop\C\C-Tutorial\x64\Debug\Vize Uygulaması 2.exe
